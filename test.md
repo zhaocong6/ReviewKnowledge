@@ -1,7 +1,11 @@
-# php
+# php/laravel
 # mysql
 # redis
+# 面向对象设计模式/消息队列
 # nginx
 # tcp/ip/http
 # git
+# swoole
 # linux
+# elasticsearch
+# docker
